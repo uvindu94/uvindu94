@@ -136,6 +136,6 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvindu94&show_icons=true&locale=en" alt="uvindu94" style="display:inline-block; margin-right: 10px;" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvindu94&" alt="uvindu94" style="display:inline-block;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvindu94&show_icons=true&locale=en" alt="uvindu94" style="display:inline-block; margin-right: 10px;width:300px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvindu94&" alt="uvindu94" style="display:inline-block;width:300px;" />
 </p>
